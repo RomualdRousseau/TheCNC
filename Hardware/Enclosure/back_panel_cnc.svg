@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="back_panel_cnc.svg"
+   inkscape:version="0.92.0 r"
+   version="1.1"
+   id="svg3358"
+   viewBox="0 0 637.96874 974.40945"
+   height="275mm"
+   width="180.04895mm">
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     showguides="true"
+     showgrid="true"
+     inkscape:current-layer="g9342"
+     inkscape:document-units="mm"
+     inkscape:cy="371.91157"
+     inkscape:cx="469.18883"
+     inkscape:zoom="1.1198107"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       id="grid3372"
+       type="xygrid"
+       originx="0.46818069"
+       originy="75.468214" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3360">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8449-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata3363">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(0.46818647,-75.468208)">
+    <g
+       id="g4451"
+       transform="translate(-0.46818648,11.726664)" />
+    <g
+       transform="translate(-1.55108,-1.8591953)"
+       id="g1814">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         style="fill:none;stroke:#000000;stroke-width:0.93897635;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         id="path4"
+         d="m 514.56718,201.18083 h -42.51969 v -67.32284 h 42.51969 z m -8.88308,36.21259 -0.19487,1.54489 -0.38623,1.50945 -0.57405,1.44566 -0.75118,1.36418 -0.91414,1.26141 -1.06653,1.13386 -1.20118,0.99568 -1.3146,0.83267 -1.40667,0.6626 -1.48464,0.48189 -1.52716,0.29055 -1.55552,0.0992 -1.55551,-0.0992 -1.52717,-0.29055 -1.4811,-0.48189 -1.41023,-0.6626 -1.31456,-0.83267 -1.20118,-0.99568 -1.06654,-1.13386 -0.91418,-1.26141 -0.75118,-1.36418 -0.57401,-1.44566 -0.38622,-1.50945 -0.19489,-1.54489 v -1.55905 l 0.19489,-1.54488 0.38622,-1.50945 0.57401,-1.44567 0.75118,-1.36417 0.91418,-1.26141 1.06654,-1.13386 1.20118,-0.99567 1.31456,-0.83268 1.41023,-0.6626 1.4811,-0.48189 1.52717,-0.29055 1.55551,-0.0992 1.55552,0.0992 1.52716,0.29055 1.48464,0.48189 1.40667,0.6626 1.3146,0.83268 1.20118,0.99567 1.06653,1.13386 0.91414,1.26141 0.75118,1.36417 0.57405,1.44567 0.38623,1.50945 0.19487,1.54488 z m 97.46572,-0.77952 h -67.32279 v -95.66929 h 67.32279 z" />
+      <path
+         id="path5171"
+         inkscape:connector-curvature="0"
+         d="M 638.58289,502.36193 H 532.28372 v 460.62992 h 106.29917 z"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93636131px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -5.8175295e-6,75.936389 H 636.85892 V 1049.4095 H -5.8175295e-6 Z"
+       id="path64"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g2057"
+       transform="translate(-0.46818648,11.726664)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g9342">
+      <g
+         id="g36">
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93897635;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-6)"
+           d="m 637.96819,973.94129 18.75,-18.75 h 37.5"
+           id="path36"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:37.49999619px;line-height:23.43749809px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="695.60077"
+           y="954.99268"
+           id="text40"><tspan
+             sodipodi:role="line"
+             id="tspan38"
+             x="695.60077"
+             y="954.99268"
+             style="font-size:14.99999905px;stroke-width:0.93749994px">Spindle origin</tspan></text>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs5255" />
+  <defs
+     id="defs5260" />
+  <defs
+     id="defs5265" />
+  <defs
+     id="defs5270" />
+  <g
+     id="g944"
+     transform="translate(0.46818647,-75.468208)" />
+  <g
+     id="g1568"
+     transform="translate(0.46818647,-75.468208)" />
+  <defs
+     id="defs2203" />
+  <defs
+     id="defs2208" />
+  <defs
+     id="defs2213" />
+  <defs
+     id="defs2218" />
+  <g
+     id="g2827"
+     transform="translate(0.46818647,-75.468208)" />
+  <g
+     id="g435"
+     transform="translate(0.46818647,-75.468208)" />
+</svg>
